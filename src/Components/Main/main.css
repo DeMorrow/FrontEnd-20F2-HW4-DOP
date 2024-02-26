@@ -1,0 +1,10 @@
+.minos {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: solid 3px gray;
+    margin: 10px;
+}
+
+.Link {
+    color: black;
+}

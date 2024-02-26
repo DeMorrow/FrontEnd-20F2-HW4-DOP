@@ -1,0 +1,15 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
+.title {
+    border: solid 2px black;
+    margin: 10px;
+    padding: 10px;
+}
+
+p {
+    font-family: Gilroy-Bold;
+}
+
+h1 {
+    font-family: Gilroy-Bold;
+}
